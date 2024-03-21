@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title  h2 , h3{
+    font-family: 'Playfair Display', serif;
+}
+
+.privacy{
+    background-color: #FDF8EE;
+}
+.privacy span{
+    font-family: 'Playfair Display', serif;
+    font-size: 22px ;
+}
+.privacy h5 {
+    color: gray;
+    font-weight: 300;
+    line-height: 28px;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 18px;
+}
+
+.privacy img{
+ max-width: 100px;
+ max-height: 100px;
+}
